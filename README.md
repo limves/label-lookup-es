@@ -20,6 +20,8 @@ python lookup-service.py sorted_list_es.dat
     # curl -O http://nlp.stanford.edu/data/crosswikis-data.tar.bz2/dictionary.bz2
     curl -O https://nlp.stanford.edu/data/crosswikis-data.tar.bz2/dictionary.bz2
     
+    # https://github.com/RDFLib/sparqlwrapper 
+    
 ### There is not a versioin of the dictionary.bz2 in Spanish.
     python sqlite-init.py labels.db dictionary.bz2 
     
