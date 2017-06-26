@@ -27,3 +27,6 @@ python lookup-service.py sorted_list_es.dat
     python  lookup-service-sqlite.py labels.db
     http://localhost:5001/search/alabama?addPageId=1
     
+#### Paper
+A Cross-Lingual Dictionary for English Wikipedia Concepts 
+* https://nlp.stanford.edu/pubs/crosswikis.pdf
